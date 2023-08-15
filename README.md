@@ -1,2 +1,3 @@
-# cyclistic_bike_rental
-Coursera Capstone. Data Analysis of real data for a ficticious company
+# Cyclistic bike rental
+Coursera Capstone. Data Analysis of actual data for a fictitious company.
+
